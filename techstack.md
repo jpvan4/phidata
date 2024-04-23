@@ -174,49 +174,49 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[idna](https://pypi.org/project/idna)|v3.6|02/07/24|Ashpreet Bedi |BSD-3-Clause|[CVE-2024-3651](https://github.com/advisories/GHSA-jjg7-2v4v-x38h) (Moderate)|
-|[altair](https://pypi.org/project/altair)|v5.2.0|02/07/24|Ashpreet Bedi |BSD-3-Clause|N/A|
-|[anyio](https://pypi.org/project/anyio)|v4.2.0|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[attrs](https://pypi.org/project/attrs)|v23.2.0|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[blinker](https://pypi.org/project/blinker)|v1.7.0|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[boto3](https://pypi.org/project/boto3)|v1.34.36|02/07/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[botocore](https://pypi.org/project/botocore)|v1.34.36|02/07/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[cachetools](https://pypi.org/project/cachetools)|v5.3.2|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[certifi](https://pypi.org/project/certifi)|v2024.2.2|02/07/24|Ashpreet Bedi |MPL-2.0|N/A|
-|[charset-normalizer](https://pypi.org/project/charset-normalizer)|v3.3.2|02/07/24|Ashpreet Bedi |N/A|N/A|
-|[click](https://pypi.org/project/click)|v8.1.7|02/07/24|Ashpreet Bedi |BSD-3-Clause|N/A|
-|[distro](https://pypi.org/project/distro)|v1.9.0|02/09/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[docker](https://pypi.org/project/docker)|v7.0.0|02/07/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[gitdb](https://pypi.org/project/gitdb)|v4.0.11|02/07/24|Ashpreet Bedi |BSD-3-Clause|N/A|
-|[h11](https://pypi.org/project/h11)|v0.14.0|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[httpx](https://pypi.org/project/httpx)|v0.25.2|02/07/24|Ashpreet Bedi |BSD-3-Clause|N/A|
-|[importlib-metadata](https://pypi.org/project/importlib-metadata)|v7.0.1|02/11/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[jmespath](https://pypi.org/project/jmespath)|v1.0.1|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[jsonschema](https://pypi.org/project/jsonschema)|v4.21.1|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[ollama](https://pypi.org/project/ollama)|v0.1.6|02/07/24|Ashpreet Bedi |N/A|N/A|
-|[openai](https://pypi.org/project/openai)|v1.12.0|02/09/24|Ashpreet Bedi |N/A|N/A|
-|[packaging](https://pypi.org/project/packaging)|v23.2|02/07/24|Ashpreet Bedi |BSD-3-Clause,Apache-2.0|N/A|
-|[pandas](https://pypi.org/project/pandas)|v2.2.0|02/07/24|Ashpreet Bedi |BSD-3-Clause|N/A|
-|[pgvector](https://pypi.org/project/pgvector)|v0.2.4|02/07/24|Ashpreet Bedi |N/A|N/A|
-|[pyarrow](https://pypi.org/project/pyarrow)|v15.0.0|02/07/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[pydantic](https://pypi.org/project/pydantic)|v2.6.1|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[python-dateutil](https://pypi.org/project/python-dateutil)|v2.8.2|02/07/24|Ashpreet Bedi |NRL|N/A|
-|[python-dotenv](https://pypi.org/project/python-dotenv)|v1.0.1|02/07/24|Ashpreet Bedi |BSD-3-Clause|N/A|
-|[pytz](https://pypi.org/project/pytz)|v2024.1|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[requests](https://pypi.org/project/requests)|v2.31.0|02/07/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[s3transfer](https://pypi.org/project/s3transfer)|v0.10.0|02/07/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[six](https://pypi.org/project/six)|v1.16.0|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[tenacity](https://pypi.org/project/tenacity)|v8.2.3|02/07/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[toml](https://pypi.org/project/toml)|v0.10.2|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[tomli](https://pypi.org/project/tomli)|v2.0.1|02/07/24|Ashpreet Bedi |N/A|N/A|
-|[toolz](https://pypi.org/project/toolz)|v0.12.1|02/07/24|Ashpreet Bedi |BSD-3-Clause|N/A|
-|[tornado](https://pypi.org/project/tornado)|v6.4|02/07/24|Ashpreet Bedi |Apache-2.0|N/A|
-|[tqdm](https://pypi.org/project/tqdm)|v4.66.1|02/09/24|Ashpreet Bedi |MPL-2.0,MIT|N/A|
-|[typing-extensions](https://pypi.org/project/typing-extensions)|v4.9.0|02/07/24|Ashpreet Bedi |Python-2.0|N/A|
-|[tzlocal](https://pypi.org/project/tzlocal)|v5.2|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[urllib3](https://pypi.org/project/urllib3)|v2.0.7|02/07/24|Ashpreet Bedi |MIT|N/A|
-|[validators](https://pypi.org/project/validators)|v0.22.0|02/11/24|Ashpreet Bedi |MIT|N/A|
-|[zipp](https://pypi.org/project/zipp)|v3.17.0|02/07/24|Ashpreet Bedi |MIT|N/A|
+|[idna](https://pypi.org/project/idna)|v3.6|N/A|N/A |BSD-3-Clause|[CVE-2024-3651](https://github.com/advisories/GHSA-jjg7-2v4v-x38h) (Moderate)|
+|[altair](https://pypi.org/project/altair)|v5.2.0|N/A|N/A |BSD-3-Clause|N/A|
+|[anyio](https://pypi.org/project/anyio)|v4.2.0|N/A|N/A |MIT|N/A|
+|[attrs](https://pypi.org/project/attrs)|v23.2.0|N/A|N/A |MIT|N/A|
+|[blinker](https://pypi.org/project/blinker)|v1.7.0|N/A|N/A |MIT|N/A|
+|[boto3](https://pypi.org/project/boto3)|v1.34.36|N/A|N/A |Apache-2.0|N/A|
+|[botocore](https://pypi.org/project/botocore)|v1.34.36|N/A|N/A |Apache-2.0|N/A|
+|[cachetools](https://pypi.org/project/cachetools)|v5.3.2|N/A|N/A |MIT|N/A|
+|[certifi](https://pypi.org/project/certifi)|v2024.2.2|N/A|N/A |MPL-2.0|N/A|
+|[charset-normalizer](https://pypi.org/project/charset-normalizer)|v3.3.2|N/A|N/A |N/A|N/A|
+|[click](https://pypi.org/project/click)|v8.1.7|N/A|N/A |BSD-3-Clause|N/A|
+|[distro](https://pypi.org/project/distro)|v1.9.0|N/A|N/A |Apache-2.0|N/A|
+|[docker](https://pypi.org/project/docker)|v7.0.0|N/A|N/A |Apache-2.0|N/A|
+|[gitdb](https://pypi.org/project/gitdb)|v4.0.11|N/A|N/A |BSD-3-Clause|N/A|
+|[h11](https://pypi.org/project/h11)|v0.14.0|N/A|N/A |MIT|N/A|
+|[httpx](https://pypi.org/project/httpx)|v0.25.2|N/A|N/A |BSD-3-Clause|N/A|
+|[importlib-metadata](https://pypi.org/project/importlib-metadata)|v7.0.1|N/A|N/A |Apache-2.0|N/A|
+|[jmespath](https://pypi.org/project/jmespath)|v1.0.1|N/A|N/A |MIT|N/A|
+|[jsonschema](https://pypi.org/project/jsonschema)|v4.21.1|N/A|N/A |MIT|N/A|
+|[ollama](https://pypi.org/project/ollama)|v0.1.6|N/A|N/A |N/A|N/A|
+|[openai](https://pypi.org/project/openai)|v1.12.0|N/A|N/A |N/A|N/A|
+|[packaging](https://pypi.org/project/packaging)|v23.2|N/A|N/A |BSD-3-Clause,Apache-2.0|N/A|
+|[pandas](https://pypi.org/project/pandas)|v2.2.0|N/A|N/A |BSD-3-Clause|N/A|
+|[pgvector](https://pypi.org/project/pgvector)|v0.2.4|N/A|N/A |N/A|N/A|
+|[pyarrow](https://pypi.org/project/pyarrow)|v15.0.0|N/A|N/A |Apache-2.0|N/A|
+|[pydantic](https://pypi.org/project/pydantic)|v2.6.1|N/A|N/A |MIT|N/A|
+|[python-dateutil](https://pypi.org/project/python-dateutil)|v2.8.2|N/A|N/A |NRL|N/A|
+|[python-dotenv](https://pypi.org/project/python-dotenv)|v1.0.1|N/A|N/A |BSD-3-Clause|N/A|
+|[pytz](https://pypi.org/project/pytz)|v2024.1|N/A|N/A |MIT|N/A|
+|[requests](https://pypi.org/project/requests)|v2.31.0|N/A|N/A |Apache-2.0|N/A|
+|[s3transfer](https://pypi.org/project/s3transfer)|v0.10.0|N/A|N/A |Apache-2.0|N/A|
+|[six](https://pypi.org/project/six)|v1.16.0|N/A|N/A |MIT|N/A|
+|[tenacity](https://pypi.org/project/tenacity)|v8.2.3|N/A|N/A |Apache-2.0|N/A|
+|[toml](https://pypi.org/project/toml)|v0.10.2|N/A|N/A |MIT|N/A|
+|[tomli](https://pypi.org/project/tomli)|v2.0.1|N/A|N/A |N/A|N/A|
+|[toolz](https://pypi.org/project/toolz)|v0.12.1|N/A|N/A |BSD-3-Clause|N/A|
+|[tornado](https://pypi.org/project/tornado)|v6.4|N/A|N/A |Apache-2.0|N/A|
+|[tqdm](https://pypi.org/project/tqdm)|v4.66.1|N/A|N/A |MPL-2.0,MIT|N/A|
+|[typing-extensions](https://pypi.org/project/typing-extensions)|v4.9.0|N/A|N/A |Python-2.0|N/A|
+|[tzlocal](https://pypi.org/project/tzlocal)|v5.2|N/A|N/A |MIT|N/A|
+|[urllib3](https://pypi.org/project/urllib3)|v2.0.7|N/A|N/A |MIT|N/A|
+|[validators](https://pypi.org/project/validators)|v0.22.0|N/A|N/A |MIT|N/A|
+|[zipp](https://pypi.org/project/zipp)|v3.17.0|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
